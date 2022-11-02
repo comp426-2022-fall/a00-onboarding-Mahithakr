@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin dhcp-152-23-90-5.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Mon Aug 22 20:17:10 PDT 2022; root:xnu-8020.140.49~2/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.37.2
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Aug 17 2022 21:20:29)
+CURL:	[/Users/mahithareddy/opt/anaconda3/bin/curl] curl 7.80.0 (x86_64-apple-darwin13.4.0) libcurl/7.80.0 OpenSSL/1.1.1q zlib/1.2.11 libssh2/1.9.0 nghttp2/1.46.0
+NODE:	[/Users/mahithareddy/.nvm/versions/node/v18.12.0/bin/node] v18.12.0
